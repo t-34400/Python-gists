@@ -14,6 +14,8 @@ This repository contains a collection of Gists related to Python, addressing var
   - [UDP Receiver](https://gist.github.com/t-34400/f7b10966d0bc448b1dd124d928c8b8ee#udp-receiver): This script implements a simple UDP receiver using asyncio in Python.
 
 ## Repositories
+- 3D
+  - [Simple VR Chat OSC Sender](https://github.com/t-34400/SimpleVRChatOSCSender): Python GUI app for VRChat communication using OSC format.
 
 ## Other Language Gists
 - [Unity-gists](https://github.com/t-34400/Unity-gists)

@@ -14,7 +14,7 @@ This repository contains a collection of Gists related to Python, addressing var
   - [UDP Receiver](https://gist.github.com/t-34400/f7b10966d0bc448b1dd124d928c8b8ee#udp-receiver): This script implements a simple UDP receiver using asyncio in Python.
 - App Add-ons
   - [Anki Add-on Basics](https://gist.github.com/t-34400/13d441a1bfbf413711b7f99101cc8a44): This Gist contains sample code for writing add-ons for Anki.
-  - [Blender Add-on Basics]([Blender Add-on Basics](https://gist.github.com/t-34400/0029ed9c2e511ca200fabe7778beb977)): This Gist contains sample code for adding an add-on panel on Blender.
+  - [Blender Add-on Basics](https://gist.github.com/t-34400/0029ed9c2e511ca200fabe7778beb977): This Gist contains sample code for adding an add-on panel on Blender.
 
 ## Repositories
 - 3D
